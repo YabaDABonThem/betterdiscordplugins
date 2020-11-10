@@ -10,4 +10,4 @@ How to install BetterDiscord:
 
 https://www.youtube.com/watch?v=bjn8P0q6kjQ&vl=en
 
-Rarted: discord.gg/rarted
+Rarted: https://discord.gg/rarted
